@@ -1,0 +1,33 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namepain/helloNode.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "chenheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namepain/helloNode/issues"
+  },
+  "homepage": "https://github.com/namepain/helloNode#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "koa": "2.3.0",
+    "koa-bodyparser": "4.2.0",
+    "koa-router": "7.2.1",
+    "koa-static": "^4.0.1",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.2",
+    "nunjucks": "^3.0.1",
+    "sequelize": "^4.13.1"
+  }
+}
